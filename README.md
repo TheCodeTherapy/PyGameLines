@@ -4,6 +4,8 @@ This is a simple graphical "toy" that I wrote to teach my son a little bit about
 
 It uses PyGame lib and the array of lines it draws can be controlled with the 3 mouse buttons.
 
+![](http://mgz.me/wp-content/uploads/2017/11/lines.gif)
+
 Right button: delete a line from the line arrays
 Middle button: wait for pygame.event so the next frame can be drawn
 Left button: adds a new line to the lines array, and also make the closest point of the first line to follow the mouse cursor
